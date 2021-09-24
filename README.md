@@ -4,6 +4,10 @@
 
 [![Linkedin](https://img.shields.io/badge/linkedin-Mingze%20(Rico)%20Huang-blue)](https://www.linkedin.com/in/mingze-rico-huang-a7986b21a/)
 
+![English](https://img.shields.io/badge/English-proficient-green)
+![Taiwanese](https://img.shields.io/badge/Taiwanese-native-brightgreen)
+![Chinese (Mandarin)](https://img.shields.io/badge/Chinese%20(Mandarin)-native-green)
+
 <!--
 **mingzehuang/mingzehuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
