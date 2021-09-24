@@ -18,7 +18,6 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4??style=flat&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6??style=flat&logo=microsoft-azure&logoColor=white)
 ![mongoDB](https://img.shields.io/badge/MongoDB-4EA94B??style=flat&logo=mongodb&logoColor=white)
-
 ![Intel® Edge AI](https://img.shields.io/badge/Intel®Edge-0071C5?style=flat&logo=intel&logoColor=white)
 
 <!--
