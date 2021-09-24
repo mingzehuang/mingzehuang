@@ -19,7 +19,7 @@
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6??style=flat&logo=microsoft-azure&logoColor=white)
 ![mongoDB](https://img.shields.io/badge/MongoDB-4EA94B??style=flat&logo=mongodb&logoColor=white)
 
-![Intel Edge AI](https://img.shields.io/badge/Intel Edge AI-0071C5?style=flat&logo=intel&logoColor=white)
+![Intel® Edge AI](https://img.shields.io/badge/Intel®Edge-0071C5?style=flat&logo=intel&logoColor=white)
 
 <!--
 **mingzehuang/mingzehuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
