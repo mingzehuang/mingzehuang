@@ -7,6 +7,18 @@
 ![English](https://img.shields.io/badge/English-proficient-green)
 ![Taiwanese](https://img.shields.io/badge/Taiwanese-native-brightgreen)
 ![Chinese (Mandarin)](https://img.shields.io/badge/Chinese%20(Mandarin)-native-green)
+![Bash](https://img.shields.io/badge/Bash-000000?style=flat&logo=gnu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420??style=flat&logo=ubuntu&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3??style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C??style=flat&logo=c&logoColor=white)
+![mySQL](https://img.shields.io/badge/MySQL-00000F??style=flat&logo=mysql&logoColor=white)
+![postgreSQL](https://img.shields.io/badge/PostgreSQL-316192??style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E??style=flat&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4??style=flat&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6??style=flat&logo=microsoft-azure&logoColor=white)
+![mongoDB](https://img.shields.io/badge/MongoDB-4EA94B??style=flat&logo=mongodb&logoColor=white)
+![Intel® Edge AI](https://img.shields.io/badge/Intel® Edge AI-0071C5?style=flat&logo=intel&logoColor=white)
 
 <!--
 **mingzehuang/mingzehuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
