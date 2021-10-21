@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-Mingze%20(Rico)%20Huang-blue)](https://www.linkedin.com/in/mingze-rico-huang-a7986b21a/)
 [![Resarch Gate](https://img.shields.io/badge/ResearchGate-Mingze%20Huang-blue)](https://www.researchgate.net/profile/Mingze-Huang-2)
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-Mingze%20Huang-rainbow)](https://scholar.google.com/citations?user=gyAzwucAAAAJ&hl=en&oi=ao)
-
+[![Kaggle](https://img.shields.io/badge/Kaggle-Mingze%20(Rico)%20Huang-lightblue)](https://www.kaggle.com/mingzericohuang)
 ![English](https://img.shields.io/badge/English-proficient-green)
 ![Taiwanese](https://img.shields.io/badge/Taiwanese-native-brightgreen)
 ![Chinese (Mandarin)](https://img.shields.io/badge/Chinese%20(Mandarin)-native-green)
