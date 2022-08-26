@@ -2,10 +2,9 @@
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-3919-1564" href="https://orcid.org/0000-0003-3919-1564" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-3919-1564</a></div>
 
-[![Linkedin](https://img.shields.io/badge/linkedin-Mingze%20(Rico)%20Huang-blue)](https://www.linkedin.com/in/mingze-rico-huang-a7986b21a/)
+[![Linkedin](https://img.shields.io/badge/linkedin-Mingze%20(Rico)%20Huang-blue)](https://www.linkedin.com/in/mingze-huang-a7986b21a/)
 [![Resarch Gate](https://img.shields.io/badge/ResearchGate-Mingze%20Huang-blue)](https://www.researchgate.net/profile/Mingze-Huang-2)
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-Mingze%20Huang-rainbow)](https://scholar.google.com/citations?user=gyAzwucAAAAJ&hl=en&oi=ao)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Mingze%20(Rico)%20Huang-lightblue)](https://www.kaggle.com/mingzericohuang)
 ![English](https://img.shields.io/badge/English-proficient-green)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=flat&logo=gnu&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420??style=flat&logo=ubuntu&logoColor=white)
@@ -14,9 +13,7 @@
 ![C](https://img.shields.io/badge/C-00599C??style=flat&logo=c&logoColor=white)
 ![mySQL](https://img.shields.io/badge/MySQL-00000F??style=flat&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E??style=flat&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4??style=flat&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6??style=flat&logo=microsoft-azure&logoColor=white)
-![Intel® Edge AI](https://img.shields.io/badge/Intel®Edge-0071C5?style=flat&logo=intel&logoColor=white)
 
 <!--
 **mingzehuang/mingzehuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
