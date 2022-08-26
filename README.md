@@ -2,7 +2,7 @@
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-3919-1564" href="https://orcid.org/0000-0003-3919-1564" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-3919-1564</a></div>
 
-[![Linkedin](https://img.shields.io/badge/linkedin-Mingze%20(Rico)%20Huang-blue)](https://www.linkedin.com/in/mingze-huang-a7986b21a/)
+[![Linkedin](https://img.shields.io/badge/linkedin-Mingze%20("Rico")%20Huang-blue)](https://www.linkedin.com/in/mingze-huang-a7986b21a/)
 [![Resarch Gate](https://img.shields.io/badge/ResearchGate-Mingze%20Huang-blue)](https://www.researchgate.net/profile/Mingze-Huang-2)
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-Mingze%20Huang-rainbow)](https://scholar.google.com/citations?user=gyAzwucAAAAJ&hl=en&oi=ao)
 ![English](https://img.shields.io/badge/English-proficient-green)
