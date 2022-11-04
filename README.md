@@ -13,7 +13,6 @@
 ![C](https://img.shields.io/badge/C-00599C??style=flat&logo=c&logoColor=white)
 ![mySQL](https://img.shields.io/badge/MySQL-00000F??style=flat&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E??style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6??style=flat&logo=microsoft-azure&logoColor=white)
 
 <!--
 **mingzehuang/mingzehuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
