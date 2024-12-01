@@ -6,13 +6,8 @@
 [![Resarch Gate](https://img.shields.io/badge/ResearchGate-Mingze%20Huang-blue)](https://www.researchgate.net/profile/Mingze-Huang-2)
 [![Google Scholar](https://img.shields.io/badge/GoogleScholar-Mingze%20Huang-rainbow)](https://scholar.google.com/citations?user=gyAzwucAAAAJ&hl=en&oi=ao)
 ![English](https://img.shields.io/badge/English-proficient-green)
-![Bash](https://img.shields.io/badge/Bash-000000?style=flat&logo=gnu&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420??style=flat&logo=ubuntu&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3??style=flat&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C??style=flat&logo=c&logoColor=white)
-![mySQL](https://img.shields.io/badge/MySQL-00000F??style=flat&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E??style=flat&logo=amazon-aws&logoColor=white)
 
 <!--
 **mingzehuang/mingzehuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
